@@ -1,0 +1,5 @@
+$a1 = 5;
+print $a1 + $a1 + 1 * $a1;
+print 1 + 2;
+3 + 4 * 5;
+print "ab c";
